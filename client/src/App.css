@@ -1,0 +1,13 @@
+.add_btn{
+  text-align: right;
+}
+.container{
+  overflow: auto;
+}
+.fas_fa-location-dot{
+  padding-right:150px;
+}
+.button{
+  display:flex;
+  justify-content: space-between;
+}
